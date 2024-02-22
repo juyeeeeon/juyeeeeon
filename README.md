@@ -1,25 +1,90 @@
-# JUYEON LEE😉
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuyeeeeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h1 align="center"> 👨‍💻 이주연 | JUYEON LEE 👨‍💻 </h1>
+<p align="center">
+<h3 align="center">🚀Backend Developer🚀</h3>
+</p>
+<br>
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuyeeeeon&count_bg=%23ED9270&title_bg=%238AA1ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![JUYEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeeeeon&show_icons=true&theme=merko)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus35)](https://solved.ac/dlwndus35/)
+</div>
 
+<br>
+
+<a href="https://github.com/juyeeeeon/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeeeeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
+</a>    
+<a href="https://github.com/juyeeeeon/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=juyeeeeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/juyeeeeon/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juyeeeeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+<br>
+<br>
+<div align=center>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus35) ](https://solved.ac/dlwndus35/ )
+
+</div>
+<br>
+<br>
+<br>
+
+<div align=center>
+  
 # 💪Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+</div>
 
+<p align="center">
+<h3 align="center">💻 Backend </h3>
+</p>
+
+<p align="center">
+Java, Spring, Spring Boot, Spring MVC,
+Spring Security, Spring Data JPA,<br>
+Querydsl, Junit5, Gradle, Servlet, JSP,
+IntelliJ, Python
+</p>
+
+<br>
+
+<p align="center">
+<h3 align="center">🎨Fronted</h3>
+</p>
+
+<p align="center">
+HTML/CSS, JavaScript, Thymeleaf,
+Bootstrap
+</p>
+
+<br>
+
+<p align="center">
+<h3 align="center">📊Database</h3>
+</p>
+
+<p align="center">
+MySQL
+</p>
+
+<br>
+<br>
+<br>
+
+<div align=center>
+  
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://juyeeeeon.tistory.com/)](https://juyeeeeon.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wndusdlgodqhrgo@gmail.com)](mailto:wndusdlgodqhrgo@gmail.com)
+
+</div>
+
+<br>
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
