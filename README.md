@@ -6,11 +6,15 @@
 <br>
 <div align="center">
   (2017.03 ~ 2024.02)
-  <div><b>🧑‍🎓연세대학교 컴퓨터과학과 | Yonsei Univ. CS Dept. </b></div>
-  <div><b>📖용운장학재단 장학생 | Yongwoon Scholarship Foundation's scholar </b></div>
+  <div><b>🧑‍🎓연세대학교 컴퓨터과학과</b></div>
+  <div>Department of Computer Science, Yonsei University.</div>
+  <br>
+  <div><b>📖용운장학재단 장학생 </b></div>
+  <div>Yongwoon Scholarship Foundation scholar</div>
   <br>
   (2024.01 ~ )
-  <div><b>💻삼성 청년 SW 아카데미 | Samsung Software Acadeny For Youth(SSAFY) </b></div>
+  <div><b>💻삼성 청년 SW 아카데미</b></div>
+  <div>Samsung Software Acadeny For Youth(SSAFY)</div>
   
 </div>
 </p>
