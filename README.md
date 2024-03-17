@@ -3,6 +3,17 @@
 <h1 align="center"> 👨‍💻 이주연 | JUYEON LEE 👨‍💻 </h1>
 <p align="center">
 <h3 align="center">🚀Backend Developer🚀</h3>
+<div align="center">
+  (2017.03 ~ 2024.02)
+  <div><b>🧑‍🎓연세대학교 컴퓨터과학과 | Yonsei Univ. CS Dept. </b></div>
+  <br>
+  (2017.03 ~ 2024.02)
+  <div><b>📖용운장학재단 장학생 | Yongwoon Scholarship Foundation's scholar </b></div>
+  <br>
+  (2024.01 ~ )
+  <div><b>💻삼성 청년 SW 아카데미 | Samsung Software Acadeny For Youth(SSAFY) </b></div>
+  
+</div>
 </p>
 <br>
 <div align=center>
