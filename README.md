@@ -41,7 +41,7 @@
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndus35) ](https://solved.ac/dlwndus35/ )
-<div>삼성 SW 역량 테스트 A형</div>
+<div>삼성 SW 역량 테스트 모의 A형</div>
 
 </div>
 <br>
