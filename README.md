@@ -12,7 +12,7 @@
   <div><b>📖용운장학재단 장학생 </b></div>
   <div>Yongwoon Scholarship Foundation scholar</div>
   <br>
-  (2024.01 ~ )
+  (2024.01 ~ 2024.05)
   <div><b>💻삼성 청년 SW 아카데미</b></div>
   <div>Samsung Software Acadeny For Youth(SSAFY)</div>
   
